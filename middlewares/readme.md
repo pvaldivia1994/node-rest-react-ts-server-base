@@ -1,0 +1,1 @@
+## Middleware used for the administration and validation of endpoints

@@ -1,0 +1,1 @@
+## Base to develop applications with node incorporating react and rest api server used typescript as language.

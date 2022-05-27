@@ -1,0 +1,1 @@
+## Application folder where the tests are deployed

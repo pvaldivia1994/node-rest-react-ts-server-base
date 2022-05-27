@@ -1,0 +1,1 @@
+## Functions used as a utility for the different modules

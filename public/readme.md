@@ -1,0 +1,1 @@
+## Public folder where the compiled react application is deployed
